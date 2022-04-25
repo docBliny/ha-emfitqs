@@ -1,0 +1,9 @@
+{
+  "domain": "emfitqs",
+  "name": "Emfit QS",
+  "documentation": "https://www.home-assistant.io/components/emfitqs/",
+  "requirements": ["requests==2.27.1"],
+  "dependencies": [],
+  "codeowners": ["@docbliny"],
+  "version": "1.0.1"
+}
